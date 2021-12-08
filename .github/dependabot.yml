@@ -6,7 +6,3 @@ updates:
     interval: weekly
     day: friday
   open-pull-requests-limit: 99
-  ignore:
-  - dependency-name: alpine
-    versions:
-    - "> 3.5"
